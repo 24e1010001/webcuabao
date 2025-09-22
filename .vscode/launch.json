@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open gioi thieu ve ban than.html",
+            "file": "c:\\Users\\DELL\\Desktop\\cv ve ban than\\index.html\\gioi thieu ve ban than.html"
+        }
+    ]
+}
